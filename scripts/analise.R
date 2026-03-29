@@ -251,6 +251,8 @@ View(eleicoes_2022_vencedores)
 
 print("Novos resultados Mediana")
 
+# Alteração feita via Worktree para teste.
+print("Alteração feita via Worktree para teste")
 
 
 
